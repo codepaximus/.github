@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="938"
+   height="250"
+   viewBox="0 0 248.17917 66.145833"
+   version="1.1"
+   id="svg946"
+   inkscape:export-filename="/home/mcsamuel/codepaxium-banner-1.png"
+   inkscape:export-xdpi="959.99994"
+   inkscape:export-ydpi="959.99994"
+   sodipodi:docname="banner.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview948"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="0.90961629"
+     inkscape:cx="535.39059"
+     inkscape:cy="155.01042"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1199"
+       enabled="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs943">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14093">
+      <stop
+         style="stop-color:#3e4347;stop-opacity:1"
+         offset="0"
+         id="stop14089" />
+      <stop
+         style="stop-color:#31a1cc;stop-opacity:1"
+         offset="1"
+         id="stop14091" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14093"
+       id="linearGradient14095"
+       x1="99.307411"
+       y1="47.334576"
+       x2="129.59471"
+       y2="36.318947"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter85684"
+       x="-0.16633508"
+       y="-0.77177606"
+       width="1.3326702"
+       height="2.5435521">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.4924054"
+         id="feGaussianBlur85686" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient14095);fill-opacity:1;stroke:#000000;stroke-width:0.0199168"
+       id="rect13804"
+       width="248.15926"
+       height="66.125916"
+       x="0.0099553429"
+       y="0.0099589033"
+       ry="0.55104929"
+       sodipodi:insensitive="true" />
+    <path
+       id="text27107"
+       style="font-style:normal;font-weight:normal;font-size:140.518px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.151107;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.12967839"
+       d="m 18.974258,38.953493 -6.590296,8.939652 h 3.826076 l 3.320441,-4.56672 v 13.996794 h 4.348576 V 43.400338 l 3.286721,4.492807 h 3.859797 l -6.624008,-8.939652 h -0.5225 -4.348576 z" />
+    <g
+       id="g85212"
+       transform="matrix(-1.05443,0,0,-1.05443,107.17523,42.868212)"
+       style="mix-blend-mode:normal;fill:#121212;fill-opacity:1;stroke:none;filter:url(#filter85684)">
+      <g
+         id="g85150"
+         transform="matrix(0.23941668,0,0,0.23941668,41.441263,14.499476)"
+         style="fill:#121212;fill-opacity:1;stroke:none">
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85140"
+           width="68.064468"
+           height="67.285103"
+           x="-132.94757"
+           y="-13.094676"
+           ry="17.776175" />
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85142"
+           width="68.064468"
+           height="67.285103"
+           x="-134.61273"
+           y="-17.148754"
+           ry="17.776175" />
+        <circle
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="circle85144"
+           cx="-100.77983"
+           cy="16.701786"
+           r="29.234976" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278"
+           id="text85148"><tspan
+             sodipodi:role="line"
+             id="tspan85146"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="-118.44415"
+             y="19.987278">c</tspan></text>
+      </g>
+      <g
+         id="g85162"
+         transform="matrix(0.23941668,0,0,0.23941668,61.942315,14.499476)"
+         style="fill:#121212;fill-opacity:1;stroke:none">
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85152"
+           width="68.064468"
+           height="67.285103"
+           x="-132.94757"
+           y="-13.094676"
+           ry="17.776175" />
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85154"
+           width="68.064468"
+           height="67.285103"
+           x="-134.61273"
+           y="-17.148754"
+           ry="17.776175" />
+        <circle
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="circle85156"
+           cx="-100.77983"
+           cy="16.701786"
+           r="29.234976" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278"
+           id="text85160"><tspan
+             sodipodi:role="line"
+             id="tspan85158"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="-118.44415"
+             y="19.987278">o</tspan></text>
+      </g>
+      <g
+         id="g85174"
+         transform="matrix(0.23941668,0,0,0.23941668,83.494087,14.499476)"
+         style="fill:#121212;fill-opacity:1;stroke:none">
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85164"
+           width="68.064468"
+           height="67.285103"
+           x="-132.94757"
+           y="-13.094676"
+           ry="17.776175" />
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85166"
+           width="68.064468"
+           height="67.285103"
+           x="-134.61273"
+           y="-17.148754"
+           ry="17.776175" />
+        <circle
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="circle85168"
+           cx="-100.77983"
+           cy="16.701786"
+           r="29.234976" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278"
+           id="text85172"><tspan
+             sodipodi:role="line"
+             id="tspan85170"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="-118.44415"
+             y="19.987278">d</tspan></text>
+      </g>
+      <g
+         id="g85186"
+         transform="matrix(0.23941668,0,0,0.23941668,103.99513,14.499476)"
+         style="fill:#121212;fill-opacity:1;stroke:none">
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85176"
+           width="68.064468"
+           height="67.285103"
+           x="-132.94757"
+           y="-13.094676"
+           ry="17.776175" />
+        <rect
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="rect85178"
+           width="68.064468"
+           height="67.285103"
+           x="-134.61273"
+           y="-17.148754"
+           ry="17.776175" />
+        <circle
+           style="fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="circle85180"
+           cx="-100.77983"
+           cy="16.701786"
+           r="29.234976" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278"
+           id="text85184"><tspan
+             sodipodi:role="line"
+             id="tspan85182"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#121212;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="-118.44415"
+             y="19.987278">e</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g14760-39"
+       transform="matrix(0.23941668,0,0,0.23941668,41.441263,14.499476)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">c</tspan></text>
+    </g>
+    <g
+       id="g14760-39-2"
+       transform="matrix(0.23941668,0,0,0.23941668,61.942315,14.499476)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-1"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-0"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-5"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">o</tspan></text>
+    </g>
+    <g
+       id="g14760-39-0"
+       transform="matrix(0.23941668,0,0,0.23941668,83.494087,14.499476)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-8"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-5"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-0"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">d</tspan></text>
+    </g>
+    <g
+       id="g14760-39-6"
+       transform="matrix(0.23941668,0,0,0.23941668,103.99513,14.499476)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-2"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-58"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-6"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1-2"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">e</tspan></text>
+    </g>
+    <g
+       id="g14760-39-3"
+       transform="matrix(0.07531678,0,0,0.07531678,47.05485,4.9549988)" />
+    <g
+       id="g14760-39-33"
+       transform="matrix(0.10272433,0,0,0.10272433,185.06233,13.43658)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-80"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-56"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-64"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="11.65157"
+         y="112.87578"
+         id="text14758-1-0"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="11.65157"
+           y="112.87578">]</tspan></text>
+    </g>
+    <g
+       id="g14760-39-2-4"
+       transform="matrix(0.10272433,0,0,0.10272433,193.85851,13.43658)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-1-6"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-0-2"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-5-6"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1-1-7"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">c</tspan></text>
+    </g>
+    <g
+       id="g14760-39-0-6"
+       transform="matrix(0.10272433,0,0,0.10272433,203.10555,13.43658)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-8-9"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-5-8"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-0-7"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1-6-2"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-4-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">r</tspan></text>
+    </g>
+    <g
+       id="g14760-39-6-2"
+       transform="matrix(0.10272433,0,0,0.10272433,211.90175,13.43658)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14750-28-2-9"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect14752-3-58-9"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle14754-0-6-6"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text14758-1-2-0"><tspan
+           sodipodi:role="line"
+           id="tspan14756-7-8-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">e</tspan></text>
+    </g>
+    <rect
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0543583"
+       id="rect15244"
+       width="6.9918771"
+       height="6.9118176"
+       x="162.24188"
+       y="12.411581"
+       ry="1.8260456" />
+    <rect
+       style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.0543583"
+       id="rect15246"
+       width="6.9918771"
+       height="6.9118176"
+       x="162.07085"
+       y="11.995128"
+       ry="1.8260456" />
+    <circle
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0543583"
+       id="circle15248"
+       cx="165.54631"
+       cy="15.472402"
+       r="3.0031433" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.62389px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0271791"
+       x="163.73174"
+       y="15.809901"
+       id="text15252"><tspan
+         sodipodi:role="line"
+         id="tspan15250"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.62389px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.0271791"
+         x="163.73174"
+         y="15.809901">+</tspan></text>
+    <rect
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0543583"
+       id="rect15424"
+       width="6.9918771"
+       height="6.9118176"
+       x="208.26172"
+       y="12.176852"
+       ry="1.8260456" />
+    <rect
+       style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.0543583"
+       id="rect15426"
+       width="6.9918771"
+       height="6.9118176"
+       x="208.09065"
+       y="11.760401"
+       ry="1.8260456" />
+    <circle
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0543583"
+       id="circle15428"
+       cx="211.56612"
+       cy="15.237675"
+       r="3.0031433" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.62389px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0271791"
+       x="209.75156"
+       y="15.575175"
+       id="text15432"><tspan
+         sodipodi:role="line"
+         id="tspan15430"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.62389px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.0271791"
+         x="209.75156"
+         y="15.575175">a</tspan></text>
+    <rect
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0584439"
+       id="rect15434"
+       width="7.5173807"
+       height="7.4313035"
+       x="187.48784"
+       y="29.44079"
+       ry="1.9632897" />
+    <rect
+       style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.0584439"
+       id="rect15436"
+       width="7.5173807"
+       height="7.4313035"
+       x="187.30394"
+       y="29.44079"
+       ry="1.9632897" />
+    <circle
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0584439"
+       id="circle15438"
+       cx="191.04062"
+       cy="33.156445"
+       r="3.228857" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.89626px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0292219"
+       x="189.08968"
+       y="33.812958"
+       id="text15442"><tspan
+         sodipodi:role="line"
+         id="tspan15440"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.89626px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.0292219"
+         x="189.08968"
+         y="33.812958">p</tspan></text>
+    <g
+       id="g15266"
+       transform="matrix(0.110445,0,0,0.110445,162.78657,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15256"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15258"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15260"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="12.477488"
+         y="111.63183"
+         id="text15264"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan15262"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="12.477488"
+           y="111.63183">]</tspan></text>
+    </g>
+    <g
+       id="g15278"
+       transform="matrix(0.110445,0,0,0.110445,172.24387,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15268"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15270"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15272"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15276"><tspan
+           sodipodi:role="line"
+           id="tspan15274"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">s</tspan></text>
+    </g>
+    <g
+       id="g15290"
+       transform="matrix(0.110445,0,0,0.110445,182.18591,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15280"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15282"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15284"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15288"><tspan
+           sodipodi:role="line"
+           id="tspan15286"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">i</tspan></text>
+    </g>
+    <g
+       id="g15302"
+       transform="matrix(0.110445,0,0,0.110445,191.64322,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15292"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15294"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15296"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15300"><tspan
+           sodipodi:role="line"
+           id="tspan15298"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">m</tspan></text>
+    </g>
+    <g
+       id="g15314"
+       transform="matrix(0.110445,0,0,0.110445,152.93438,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15304"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15306"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15308"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15312"><tspan
+           sodipodi:role="line"
+           id="tspan15310"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">+</tspan></text>
+    </g>
+    <g
+       id="g15326"
+       transform="matrix(0.10104599,0,0,0.10104599,169.66804,49.856007)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15316"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15318"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15320"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="10.940221"
+         y="111.89762"
+         id="text15324"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan15322"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="10.940221"
+           y="111.89762">]</tspan></text>
+    </g>
+    <g
+       id="g15338"
+       transform="matrix(0.10104599,0,0,0.10104599,178.32051,49.856007)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15328"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15330"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15332"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15336"><tspan
+           sodipodi:role="line"
+           id="tspan15334"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">o</tspan></text>
+    </g>
+    <g
+       id="g15350"
+       transform="matrix(0.10104599,0,0,0.10104599,187.41647,49.856007)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15340"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15342"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15344"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15348"><tspan
+           sodipodi:role="line"
+           id="tspan15346"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">p</tspan></text>
+    </g>
+    <g
+       id="g15362"
+       transform="matrix(0.10104599,0,0,0.10104599,196.06896,49.856007)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15352"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15354"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15356"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15360"><tspan
+           sodipodi:role="line"
+           id="tspan15358"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">t</tspan></text>
+    </g>
+    <g
+       id="g15374"
+       transform="matrix(0.10104599,0,0,0.10104599,160.65428,50.170919)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15364"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15366"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15368"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15372"><tspan
+           sodipodi:role="line"
+           id="tspan15370"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">+</tspan></text>
+    </g>
+    <g
+       id="g15386"
+       transform="matrix(0.10272433,0,0,0.10272433,231.08214,13.201851)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15376"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15378"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15380"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15384"><tspan
+           sodipodi:role="line"
+           id="tspan15382"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">t</tspan></text>
+    </g>
+    <g
+       id="g15398"
+       transform="matrix(0.10272433,0,0,0.10272433,239.87834,13.201851)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15388"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15390"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15392"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15396"><tspan
+           sodipodi:role="line"
+           id="tspan15394"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">e</tspan></text>
+    </g>
+    <g
+       id="g15410"
+       transform="matrix(0.10272433,0,0,0.10272433,249.12536,13.201851)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15400"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15402"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15404"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15408"><tspan
+           sodipodi:role="line"
+           id="tspan15406"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">.</tspan></text>
+    </g>
+    <rect
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0584439"
+       id="rect15444"
+       width="7.5173807"
+       height="7.4313035"
+       x="197.34006"
+       y="29.44079"
+       ry="1.9632897" />
+    <rect
+       style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.0584439"
+       id="rect15446"
+       width="7.5173807"
+       height="7.4313035"
+       x="197.15613"
+       y="29.44079"
+       ry="1.9632897" />
+    <circle
+       style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.0584439"
+       id="circle15448"
+       cx="200.89281"
+       cy="33.156445"
+       r="3.228857" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.89626px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0292219"
+       x="198.94186"
+       y="34.598057"
+       id="text15452"><tspan
+         sodipodi:role="line"
+         id="tspan15450"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.89626px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.0292219"
+         x="198.94186"
+         y="34.598057">l</tspan></text>
+    <g
+       id="g15466"
+       transform="matrix(0.110445,0,0,0.110445,221.48074,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15456"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15458"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15460"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15464"><tspan
+           sodipodi:role="line"
+           id="tspan15462"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">i</tspan></text>
+    </g>
+    <g
+       id="g15478"
+       transform="matrix(0.110445,0,0,0.110445,231.42278,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15468"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15470"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15472"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15476"><tspan
+           sodipodi:role="line"
+           id="tspan15474"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">f</tspan></text>
+    </g>
+    <g
+       id="g15490"
+       transform="matrix(0.110445,0,0,0.110445,240.88009,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15480"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15482"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15484"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15488"><tspan
+           sodipodi:role="line"
+           id="tspan15486"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">y</tspan></text>
+    </g>
+    <g
+       id="g15502"
+       transform="matrix(0.10104599,0,0,0.10104599,214.74958,49.60262)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15492"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15494"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15496"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15500"><tspan
+           sodipodi:role="line"
+           id="tspan15498"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">m</tspan></text>
+    </g>
+    <g
+       id="g15514"
+       transform="matrix(0.10104599,0,0,0.10104599,223.40207,49.60262)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15504"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15506"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15508"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15512"><tspan
+           sodipodi:role="line"
+           id="tspan15510"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">i</tspan></text>
+    </g>
+    <g
+       id="g15526"
+       transform="matrix(0.10104599,0,0,0.10104599,232.49801,49.60262)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15516"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15518"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15520"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15524"><tspan
+           sodipodi:role="line"
+           id="tspan15522"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">z</tspan></text>
+    </g>
+    <g
+       id="g15538"
+       transform="matrix(0.10104599,0,0,0.10104599,241.1505,49.60262)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15528"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15530"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15532"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15536"><tspan
+           sodipodi:role="line"
+           id="tspan15534"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">e</tspan></text>
+    </g>
+    <g
+       id="g15550"
+       transform="matrix(0.10104599,0,0,0.10104599,205.73582,49.917533)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15540"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#00bbff;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect15542"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle15544"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text15548"><tspan
+           sodipodi:role="line"
+           id="tspan15546"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">i</tspan></text>
+    </g>
+    <g
+       id="g68102"
+       transform="matrix(0.110445,0,0,0.110445,250.40903,31.110908)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect68092"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect68094"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle68096"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text68100"><tspan
+           sodipodi:role="line"
+           id="tspan68098"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">.</tspan></text>
+    </g>
+    <g
+       id="g79342"
+       transform="matrix(0.10104599,0,0,0.10104599,249.92169,49.495428)">
+      <rect
+         style="fill:#005e80;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect79332"
+         width="68.064468"
+         height="67.285103"
+         x="-132.94757"
+         y="-13.094676"
+         ry="17.776175" />
+      <rect
+         style="fill:#7f8080;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="rect79334"
+         width="68.064468"
+         height="67.285103"
+         x="-134.61273"
+         y="-17.148754"
+         ry="17.776175" />
+      <circle
+         style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.529167"
+         id="circle79336"
+         cx="-100.77983"
+         cy="16.701786"
+         r="29.234976" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+         x="-118.44415"
+         y="19.987278"
+         id="text79340"><tspan
+           sodipodi:role="line"
+           id="tspan79338"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-118.44415"
+           y="19.987278">.</tspan></text>
+    </g>
+    <path
+       id="path86484"
+       style="font-style:normal;font-weight:normal;font-size:140.518px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.151107;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.12967839"
+       d="m 39.768046,46.999855 -6.590296,8.939652 h 3.826076 l 3.320441,-4.56672 v 13.996794 h 4.348576 V 51.4467 l 3.286721,4.492807 h 3.859797 l -6.624008,-8.939652 h -0.5225 -4.348576 z" />
+    <path
+       id="path86486"
+       style="font-style:normal;font-weight:normal;font-size:140.518px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.151107;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.12967839"
+       d="m 62.399102,37.160119 -6.590296,8.939652 h 3.826076 l 3.320441,-4.56672 v 13.996794 h 4.348576 V 41.606964 l 3.286721,4.492807 h 3.859797 l -6.624008,-8.939652 h -0.5225 -4.348576 z" />
+    <path
+       id="path86488"
+       style="font-style:normal;font-weight:normal;font-size:140.518px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.151107;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.12967839"
+       d="m 79.817037,43.434021 -6.590296,8.939652 h 3.826076 l 3.320441,-4.56672 v 13.996794 h 4.348576 V 47.880866 l 3.286721,4.492807 h 3.859797 l -6.624008,-8.939652 h -0.5225 -4.348576 z" />
+    <path
+       id="path86490"
+       style="font-style:normal;font-weight:normal;font-size:140.518px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.151107;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.12967839"
+       d="m 104.32963,35.413193 -6.590295,8.939652 h 3.826075 l 3.32044,-4.56672 v 13.996794 h 4.34858 V 39.860038 l 3.28672,4.492807 h 3.8598 l -6.62401,-8.939652 h -0.5225 -4.34858 z" />
+    <path
+       id="path86888"
+       style="font-style:normal;font-weight:normal;font-size:140.518px;line-height:1.25;font-family:sans-serif;opacity:0.129678;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.151107;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 125.39147,42.436246 -6.5903,8.939652 h 3.82608 l 3.32044,-4.56672 v 13.996794 h 4.34858 V 46.883091 l 3.28672,4.492807 h 3.8598 l -6.62401,-8.939652 h -0.5225 -4.34858 z" />
+  </g>
+</svg>

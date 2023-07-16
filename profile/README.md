@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-![banner](./codepaxium-banner-sm-1.png)
+![banner](./banner.svg)
 
 ---
 
