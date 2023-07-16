@@ -1,4 +1,8 @@
 <!-- ## Hi there 👋 -->
+![banner](./codepaxium-banner-sm-1.png)
+
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=600&pause=1000&color=005E80&width=435&lines=Building+software+that+matters.;Beautifully+simple+software.;Better+software+through+optimization.)](https://git.io/typing-svg)
 <!--
 
